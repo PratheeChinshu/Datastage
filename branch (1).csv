@@ -1,0 +1,21 @@
+branch_id,branch_name,lctn,address,manager
+1,Branch_1,Pune,66,Pune,Aditya Patel
+2,Branch_2,Ahmedabad,70,Ahmedabad,Krishna Gupta
+3,Branch_3,Mumbai,123,Mumbai,Vivaan Sharma
+4,Branch_4,Delhi,456,Delhi,Aditya Gupta
+5,Branch_5,Bangalore,789,Bangalore,Krishna Mehta
+6,Branch_6,Hyderabad,101,Hyderabad,Aryan Reddy
+7,Branch_7,Chennai,202,Chennai,Diya Singh
+8,Branch_8,Kolkata,303,Kolkata,Ananya Kumar
+9,Branch_9,Jaipur,404,Jaipur,Ishaan Joshi
+10,Branch_10,Lucknow,505,Lucknow,Riya Das
+11,Branch_11,Chandigarh,606,Chandigarh,Kabir Roy
+12,Branch_12,Bhopal,707,Bhopal,Aanya Bose
+13,Branch_13,Patna,808,Patna,Arjun Chatterjee
+14,Branch_14,Ranchi,909,Ranchi,Saanvi Mukherjee
+15,Branch_15,Surat,1010,Surat,Reyansh Banerjee
+16,Branch_16,Kanpur,1111,Kanpur,Aadhya Ghosh
+17,Branch_17,Nagpur,1212,Nagpur,Atharv Sen
+18,Branch_18,Indore,1313,Indore,Meera Dey
+19,Branch_19,Thane,1414,Thane,Ayaan Paul
+20,Branch_20,Varanasi,1515,Varanasi,Sara Sarkar
